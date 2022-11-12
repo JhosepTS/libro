@@ -1,6 +1,6 @@
 
 package Ejercicio8_4;
-//Jhosep TS
+//Jhosep
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
